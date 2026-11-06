@@ -1,0 +1,5 @@
+Student Management Details
+
+Student Name : Sethwika
+USN : 4GW25CS069
+Department : CSE
